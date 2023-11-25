@@ -1,0 +1,7 @@
+Gustavo;41
+Ana;22
+pedro;35
+Paulo;95
+JosÃ©;55
+José; 35
+Maria; 85
